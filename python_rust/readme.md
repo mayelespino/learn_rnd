@@ -10,3 +10,4 @@
 ## Documentation
 
 - [Mapping of Rust types to Python types](https://pyo3.rs/v0.15.1/conversions/tables)
+- [Writing and publishing a Python module in Rust](https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust)
